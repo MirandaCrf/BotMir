@@ -1,0 +1,16 @@
+[GERAL]
+login = email@gmail.com
+senha = senha
+# PRACTICE ou REAL
+tipoconta = PRACTICE
+# esse delay subtraira no tempo em que o sinal dará, em segundos, aumentar se a net estiver ruim
+delayentrada = 2
+# Tempo em minutos antes e após notícias que suspenderá entradas
+TempoNoticia = 15
+
+## Configuração da lista de sinais:
+#
+# HORA,PAR,DIREÇÃO,VALOR,TEMPO,QUANTIDADEGALE,MULTIPLICADORGALE
+# EXEMPLO:
+# 10:05,EURUSD,put,2,1,1,1.9
+##
